@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![University](https://img.shields.io/badge/ITM%20University-NAAC%20A%2B-purple?style=for-the-badge)
 
-**A fully offline, AI-powered desktop chatbot for ITM University, Indore**  
+**A fully offline, AI-powered desktop chatbot for ITM University **  
 Built with Python · Tkinter GUI · CSV Data Layer · NLP Intent Detection
 
 </div>
@@ -20,7 +20,7 @@ Built with Python · Tkinter GUI · CSV Data Layer · NLP Intent Detection
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │      CollegeBot · ITM University                    [Help]  │
-│       ● Online | NAAC A+ | NIRF Rank 67 | Indore, MP        │
+│       ● Online                                              │
 ├─────────────────────────────────────────────────────────────┤
 │   Courses   Fees        Placements    Faculty     Exams  │
 │   Hostel    Scholarship      Contact                     │
