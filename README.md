@@ -68,7 +68,7 @@ Each course has its own full semester-by-semester exam schedule:
 | MBA | 7 exams (Sem 1–4) |
 | B.Tech ME, ECE | Full semester coverage |
 
-### 🎓 Courses Offered
+###  Courses Offered
 All course names are properly formatted:
 
 | Code | Full Name |
@@ -90,7 +90,7 @@ All course names are properly formatted:
 | MBA | Master of Business Administration |
 | MCA | Master of Computer Applications |
 
-### 🏠 Hostel Information (10 Blocks)
+###  Hostel Information (10 Blocks)
 - Boys Hostel A, B, C (AC / Non-AC / Premium)
 - Girls Hostel A, B, C (AC / Non-AC / Premium)
 - International Student Hostel
@@ -98,7 +98,7 @@ All course names are properly formatted:
 - Faculty Guest House
 - Special Needs Hostel (Accessible)
 
-### 📋 All Data Categories
+###  All Data Categories
 | Category | Records | Description |
 |----------|---------|-------------|
 | Courses | 20 | All UG/PG programs with fees, HOD, cities |
@@ -123,7 +123,7 @@ All course names are properly formatted:
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 ITM-CollegeBot/
@@ -138,7 +138,7 @@ ITM-CollegeBot/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -175,7 +175,7 @@ python chatbot.py
 
 ---
 
-## 💬 Example Queries
+##  Example Queries
 
 You can type naturally — the bot handles variations and typos.
 
@@ -192,11 +192,11 @@ You can type naturally — the bot handles variations and typos.
 | `admission process` | All 8 admission modes |
 | `naac ranking` | Accreditation and NIRF details |
 | `contact admissions` | Admissions office phone + email |
-| `tell me a joke` | 😄 Programming humour |
+| `tell me a joke` | Programming humour |
 
 ---
 
-## 🖥️ UI Design
+##  UI Design
 
 The chatbot features a **clean, modern light theme**:
 
@@ -211,7 +211,7 @@ The chatbot features a **clean, modern light theme**:
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 chatbot.py
@@ -234,7 +234,7 @@ college_data.csv
 
 ---
 
-## 🔧 Customisation
+##  Customisation
 
 ### Update university data
 Edit `college_data.csv` — all rows follow this format:
@@ -260,7 +260,7 @@ Edit the `C = { ... }` dict at the top of `chatbot.py`.
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 | Library | Version | Purpose |
 |---------|---------|---------|
@@ -275,18 +275,18 @@ Edit the `C = { ... }` dict at the top of `chatbot.py`.
 
 ---
 
-## 🏫 About ITM University
+##  About ITM University
 
 **ITM University Gwalior**, Gwalior Road, Indore, Madhya Pradesh  
-- 🏅 **NAAC Grade A+** | Score 3.65/4.0  
-- 📊 **NIRF Rank 67** among Engineering Colleges of India  
-- 🏆 **ISO 9001:2015** Certified  
-- ✅ **AICTE Approved** | **UGC Recognised** | **NBA Accredited**  
-- 🌐 [www.itmuniversity.ac.in](https://www.itmuniversity.ac.in)
+-  **NAAC Grade A+** | Score 3.65/4.0  
+-  **NIRF Rank 67** among Engineering Colleges of India  
+-  **ISO 9001:2015** Certified  
+-  **AICTE Approved** | **UGC Recognised** | **NBA Accredited**  
+-  [www.itmuniversity.ac.in](https://www.itmuniversity.ac.in)
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome!
 
@@ -305,7 +305,7 @@ Contributions are welcome!
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**.
 
@@ -325,22 +325,14 @@ The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 ```
 
----
-
-## 📞 Contact & Support
-
-For questions about the chatbot project:
-- Open an **Issue** on this repository
-- Email: `admissions@itmuniversity.ac.in`
-- Phone: `+91-731-2973-200`
 
 ---
 
 <div align="center">
 
-Made with ❤️ for ITM University, Indore
+Made with for ITM University, Indore
 
-⭐ **Star this repo if you found it useful!** ⭐
+Star this repo if you found it useful!
 
 </div>
 
