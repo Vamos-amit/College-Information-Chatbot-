@@ -1,0 +1,321 @@
+category,id,field1,field2,field3,field4,field5,field6
+course,1,B.Tech CSE (Computer Science Engineering),4,750000,Dr. Anil Sharma,200,Bangalore/Hyderabad/Pune
+course,2,B.Tech IT (Information Technology),4,700000,Dr. Priya Mehta,180,Mumbai/Chennai/Noida
+course,3,B.Tech ECE (Electronics & Communication),4,680000,Dr. Ravi Verma,150,Delhi/Bengaluru/Hyderabad
+course,4,B.Tech ME (Mechanical Engineering),4,650000,Dr. Suresh Singh,120,Pune/Mumbai/Chennai
+course,5,B.Tech CE (Civil Engineering),4,620000,Dr. Anita Patel,100,Delhi/Noida/Ahmedabad
+course,6,B.Tech EE (Electrical Engineering),4,640000,Dr. Manoj Kumar,110,Hyderabad/Chennai/Kolkata
+course,7,B.Tech AI (Artificial Intelligence),4,820000,Dr. Meena Saxena,170,Bangalore/Noida/Hyderabad
+course,8,B.Tech DS (Data Science),4,800000,Dr. Kavita Gupta,160,Bangalore/Hyderabad/Mumbai
+course,9,B.Tech CY (Cyber Security),4,780000,Dr. Sanjay Nair,130,Delhi/Bangalore/Pune
+course,10,B.Tech CC (Cloud Computing),4,720000,Dr. Pooja Joshi,140,Mumbai/Bangalore/Hyderabad
+course,11,B.Tech ML (Machine Learning),4,810000,Dr. Rohit Chauhan,155,Bangalore/Pune/Chennai
+course,12,B.Tech RB (Robotics Engineering),4,750000,Dr. Geeta Bajaj,65,Bangalore/Hyderabad/Pune
+course,13,B.Tech AE (Aerospace Engineering),4,720000,Dr. Pradeep Iyer,60,Bangalore/Hyderabad/Delhi
+course,14,B.Tech BT (Biotechnology),4,590000,Dr. Sunita Pillai,80,Bangalore/Hyderabad/Delhi
+course,15,B.Tech CH (Chemical Engineering),4,610000,Dr. Ramesh Reddy,75,Mumbai/Chennai/Pune
+course,16,BCA (Bachelor of Computer Applications),3,450000,Dr. Neha Mishra,120,Lucknow/Jaipur/Bhopal
+course,17,BBA (Bachelor of Business Administration),3,480000,Dr. Vikram Rao,150,Mumbai/Delhi/Jaipur
+course,18,BSC (Bachelor of Science - CS),3,380000,Dr. Alok Sinha,100,Indore/Bhopal/Jabalpur
+course,19,MBA (Master of Business Administration),2,600000,Dr. Vikram Rao,100,Mumbai/Delhi/Bangalore
+course,20,MCA (Master of Computer Applications),2,500000,Dr. Alok Sinha,90,Pune/Hyderabad/Chennai
+teacher,1,Dr. Anil Sharma,B.Tech CSE,Professor & HOD,PhD IIT Delhi,25 years,Best Teacher Award 2022
+teacher,2,Dr. Priya Mehta,B.Tech IT,Professor & HOD,PhD IIT Bombay,18 years,Research Excellence Award 2021
+teacher,3,Dr. Ravi Verma,B.Tech ECE,Professor & HOD,PhD IISc Bangalore,22 years,Innovation Award 2020
+teacher,4,Dr. Suresh Singh,B.Tech ME,Professor & HOD,PhD IIT Kanpur,20 years,Best Researcher 2023
+teacher,5,Dr. Anita Patel,B.Tech CE,Associate Professor & HOD,PhD NIT Surat,15 years,Young Scientist Award 2022
+teacher,6,Dr. Manoj Kumar,B.Tech EE,Professor & HOD,PhD IIT Roorkee,19 years,Best Faculty Award 2022
+teacher,7,Dr. Kavita Gupta,B.Tech DS,Associate Professor & HOD,PhD IIT Hyderabad,12 years,AI Researcher Award 2023
+teacher,8,Dr. Sanjay Nair,B.Tech CY,Assistant Professor & HOD,PhD IIT Madras,10 years,Cybersecurity Expert of Year 2023
+teacher,9,Dr. Pooja Joshi,B.Tech CC,Associate Professor & HOD,PhD IIT Kharagpur,13 years,Cloud Pioneer Award 2022
+teacher,10,Dr. Vikram Rao,MBA/BBA,Professor & HOD,PhD IIM Ahmedabad,24 years,Best Management Educator 2023
+teacher,11,Dr. Neha Mishra,BCA,Associate Professor & HOD,PhD Pune University,11 years,Digital Innovation Award 2022
+teacher,12,Dr. Alok Sinha,BSC/MCA,Professor & HOD,PhD Delhi University,17 years,Programming Excellence Award 2021
+teacher,13,Dr. Sunita Pillai,B.Tech BT,Associate Professor & HOD,PhD AIIMS Delhi,14 years,Biotech Innovator Award 2023
+teacher,14,Dr. Ramesh Reddy,B.Tech CH,Professor & HOD,PhD IIT Chennai,21 years,Chemical Engineering Award 2020
+teacher,15,Dr. Pradeep Iyer,B.Tech AE,Professor & HOD,PhD IISc Bangalore,26 years,Aerospace Excellence Award 2021
+teacher,16,Dr. Meena Saxena,B.Tech AI/ML,Associate Professor & HOD,PhD IIT Gandhinagar,9 years,Young AI Researcher 2023
+teacher,17,Dr. Rohit Chauhan,B.Tech ML,Assistant Professor,PhD IIT Jodhpur,7 years,Rising Star Award 2023
+teacher,18,Dr. Geeta Bajaj,B.Tech RB,Professor & HOD,PhD Carnegie Mellon USA,23 years,Robotics Innovation Award 2022
+teacher,19,Dr. Harpreet Kaur,Environmental Engg,Associate Professor & HOD,PhD IIT Delhi,16 years,Green Technology Award 2023
+teacher,20,Dr. Subhash Das,Food Technology,Professor & HOD,PhD CFTRI Mysore,20 years,Food Science Excellence Award
+teacher,21,Mr. Ajay Tiwari,Mathematics,Associate Professor,MSc IIT Bombay,14 years,Teaching Excellence Award 2022
+teacher,22,Mrs. Rekha Pandey,Physics,Associate Professor,MSc Delhi University,12 years,Best Lab Mentor Award 2023
+teacher,23,Mr. Devendra Kulkarni,Chemistry,Assistant Professor,MSc Pune University,8 years,Research Contribution Award 2022
+teacher,24,Dr. Pallavi Desai,English Communication,Professor,PhD Osmania University,18 years,Best Communication Trainer 2021
+teacher,25,Mr. Nitin Jain,Physical Education,Senior Trainer,MSc Sports Science Pune,10 years,Sports Excellence Award 2023
+teacher,26,Dr. Kiran Bose,BBA,Associate Professor,PhD MDU Rohtak,13 years,Best Business Educator 2023
+teacher,27,Mr. Rakesh Sharma,BSC Physics,Assistant Professor,MSc Vikram University,9 years,Science Mentor Award 2022
+teacher,28,Dr. Anjali Srivastava,BSC Mathematics,Associate Professor,PhD DAVV Indore,11 years,Outstanding Researcher 2023
+teacher,29,Dr. Sameer Dubey,MBA Finance,Professor,PhD IIM Indore,16 years,Finance Expert Award 2022
+teacher,30,Ms. Divya Patel,BCA Web Dev,Assistant Professor,MCA RGPV Bhopal,6 years,Young Innovator Award 2023
+placement,1,Tata Consultancy Services,Software Engineer,8.5,2024,B.Tech CSE/IT,Bangalore
+placement,2,Infosys,Systems Engineer,7.2,2024,B.Tech CSE/IT/ECE,Pune
+placement,3,Wipro,Software Developer,6.8,2024,B.Tech CSE/IT,Hyderabad
+placement,4,HCL Technologies,Technical Associate,6.5,2024,B.Tech CSE/IT/ECE,Noida
+placement,5,Accenture,Associate Software Engineer,7.0,2024,B.Tech CSE/IT,Bangalore
+placement,6,Cognizant,Programmer Analyst,6.5,2024,B.Tech CSE/IT,Chennai
+placement,7,Capgemini,Software Analyst,6.2,2024,B.Tech CSE/IT/ME,Mumbai
+placement,8,Tech Mahindra,Software Engineer,7.5,2024,B.Tech CSE/IT,Pune
+placement,9,Google,Software Engineer L3,28.0,2024,B.Tech CSE/IT/DS,Bangalore
+placement,10,Microsoft,SDE-1,24.0,2024,B.Tech CSE/IT/DS,Hyderabad
+placement,11,Amazon,SDE-1,22.0,2024,B.Tech CSE/IT,Bangalore
+placement,12,Flipkart,Software Engineer,18.0,2024,B.Tech CSE/IT,Bangalore
+placement,13,Paytm,Software Developer,12.0,2024,B.Tech CSE/IT,Noida
+placement,14,Zomato,Backend Developer,14.0,2024,B.Tech CSE/IT,Gurugram
+placement,15,Swiggy,Software Engineer,15.0,2024,B.Tech CSE/IT,Bangalore
+placement,16,Byju's,Product Engineer,11.0,2024,B.Tech CSE/IT,Bangalore
+placement,17,Deloitte,Analyst,9.0,2024,MBA/B.Tech CSE,Mumbai
+placement,18,KPMG,Business Analyst,10.0,2024,MBA/BBA,Pune
+placement,19,Ernst & Young,Technology Analyst,9.5,2024,B.Tech CSE/MBA,Gurgaon
+placement,20,L&T,Graduate Engineer Trainee,7.0,2024,B.Tech ME/CE/EE,Mumbai
+placement,21,Bosch,Graduate Engineer,8.0,2024,B.Tech ME/ECE/EE,Bangalore
+placement,22,Siemens,Engineer Trainee,8.5,2024,B.Tech EE/ECE/ME,Pune
+placement,23,BHEL,Graduate Engineer Trainee,6.8,2024,B.Tech ME/EE,Bhopal
+placement,24,ISRO,Scientist/Engineer SC,10.0,2024,B.Tech CSE/ECE/ME,Bangalore
+placement,25,IBM,Associate Developer,9.2,2024,B.Tech CSE/IT,Noida
+placement,26,Oracle,Application Developer,11.0,2024,B.Tech CSE/IT,Hyderabad
+placement,27,SAP,Associate Consultant,10.5,2024,B.Tech CSE/MBA,Bangalore
+placement,28,Adobe,Software Engineer,16.0,2024,B.Tech CSE/IT,Noida
+placement,29,Nvidia,Software Engineer,32.0,2024,B.Tech CSE/ECE/DS,Pune
+placement,30,Intel,Hardware Engineer,13.0,2024,B.Tech ECE/EE,Bangalore
+placement,31,Persistent Systems,Software Engineer,9.5,2024,B.Tech CSE/IT/BCA,Pune
+placement,32,Mphasis,Associate Engineer,8.0,2024,B.Tech CSE/IT,Bangalore
+placement,33,Mindtree,Software Engineer,8.5,2024,B.Tech CSE/IT,Bangalore
+placement,34,Mu Sigma,Business Analyst,7.8,2024,B.Tech DS/MBA/BCA,Bangalore
+placement,35,Bajaj Finserv,IT Analyst,9.0,2024,B.Tech CSE/MBA/BBA,Pune
+exam,1,B.Tech CSE Semester 1,Mathematics I (Calculus),2025-11-05,Room 101,3 hrs,80 marks
+exam,2,B.Tech CSE Semester 1,Physics & Optics,2025-11-07,Room 102,3 hrs,80 marks
+exam,3,B.Tech CSE Semester 1,Programming in C,2025-11-09,Lab A,3 hrs,80 marks
+exam,4,B.Tech CSE Semester 1,Engineering Drawing,2025-11-11,Drawing Hall,3 hrs,80 marks
+exam,5,B.Tech CSE Semester 2,Mathematics II (Algebra),2025-11-13,Room 103,3 hrs,80 marks
+exam,6,B.Tech CSE Semester 2,Data Structures & Algorithms,2025-11-15,Room 104,3 hrs,80 marks
+exam,7,B.Tech CSE Semester 2,Object Oriented Programming (C++),2025-11-17,Lab A,3 hrs,80 marks
+exam,8,B.Tech CSE Semester 3,Database Management Systems,2025-11-05,Room 201,3 hrs,80 marks
+exam,9,B.Tech CSE Semester 3,Operating Systems,2025-11-07,Room 202,3 hrs,80 marks
+exam,10,B.Tech CSE Semester 3,Discrete Mathematics,2025-11-09,Room 203,3 hrs,80 marks
+exam,11,B.Tech CSE Semester 4,Computer Networks,2025-11-11,Room 204,3 hrs,80 marks
+exam,12,B.Tech CSE Semester 4,Software Engineering,2025-11-13,Room 205,3 hrs,80 marks
+exam,13,B.Tech CSE Semester 4,Theory of Computation,2025-11-15,Room 206,3 hrs,80 marks
+exam,14,B.Tech CSE Semester 5,Artificial Intelligence,2025-11-17,Room 301,3 hrs,80 marks
+exam,15,B.Tech CSE Semester 5,Machine Learning,2025-11-19,Lab B,3 hrs,80 marks
+exam,16,B.Tech CSE Semester 5,Web Development,2025-11-21,Lab C,3 hrs,80 marks
+exam,17,B.Tech CSE Semester 6,Cloud Computing & DevOps,2025-11-23,Lab C,3 hrs,80 marks
+exam,18,B.Tech CSE Semester 6,Cyber Security Fundamentals,2025-11-25,Room 302,3 hrs,80 marks
+exam,19,B.Tech CSE Semester 6,Big Data Analytics,2025-11-27,Lab B,3 hrs,80 marks
+exam,20,B.Tech CSE Semester 7,Compiler Design,2025-11-05,Room 401,3 hrs,80 marks
+exam,21,B.Tech CSE Semester 7,Distributed Systems,2025-11-07,Room 402,3 hrs,80 marks
+exam,22,B.Tech CSE Semester 8,Major Project Viva,2025-12-10,Project Hall,2 hrs,100 marks
+exam,23,B.Tech AI Semester 1,Mathematics for AI (Linear Algebra),2025-11-05,Room 110,3 hrs,80 marks
+exam,24,B.Tech AI Semester 1,Introduction to Python Programming,2025-11-07,Lab AI-1,3 hrs,80 marks
+exam,25,B.Tech AI Semester 1,Statistics & Probability,2025-11-09,Room 111,3 hrs,80 marks
+exam,26,B.Tech AI Semester 2,Data Structures for AI,2025-11-11,Room 112,3 hrs,80 marks
+exam,27,B.Tech AI Semester 2,Machine Learning Fundamentals,2025-11-13,Lab AI-1,3 hrs,80 marks
+exam,28,B.Tech AI Semester 2,Computational Intelligence,2025-11-15,Room 113,3 hrs,80 marks
+exam,29,B.Tech AI Semester 3,Neural Networks & Deep Learning,2025-11-17,Lab AI-2,3 hrs,80 marks
+exam,30,B.Tech AI Semester 3,Natural Language Processing,2025-11-19,Room 211,3 hrs,80 marks
+exam,31,B.Tech AI Semester 3,Computer Vision,2025-11-21,Lab AI-2,3 hrs,80 marks
+exam,32,B.Tech AI Semester 4,Reinforcement Learning,2025-11-23,Lab AI-3,3 hrs,80 marks
+exam,33,B.Tech AI Semester 4,AI Ethics & Governance,2025-11-25,Room 212,3 hrs,80 marks
+exam,34,B.Tech AI Semester 4,Generative AI & LLMs,2025-11-27,Lab AI-3,3 hrs,80 marks
+exam,35,B.Tech AI Semester 5,AI for Healthcare & Biotech,2025-11-05,Room 311,3 hrs,80 marks
+exam,36,B.Tech AI Semester 5,Big Data & AI Pipelines,2025-11-07,Lab AI-4,3 hrs,80 marks
+exam,37,B.Tech AI Semester 5,Autonomous Systems,2025-11-09,Lab Robotics,3 hrs,80 marks
+exam,38,B.Tech AI Semester 6,Explainable AI (XAI),2025-11-11,Room 312,3 hrs,80 marks
+exam,39,B.Tech AI Semester 6,Edge AI & IoT,2025-11-13,Lab AI-4,3 hrs,80 marks
+exam,40,B.Tech AI Semester 6,AI Project Management,2025-11-15,Room 313,3 hrs,80 marks
+exam,41,B.Tech AI Semester 7,Industry AI Applications,2025-11-17,Room 411,3 hrs,80 marks
+exam,42,B.Tech AI Semester 8,Major AI Project Viva,2025-12-12,AI Lab Hall,2 hrs,100 marks
+exam,43,BCA Semester 1,C Programming,2025-11-05,Room 120,3 hrs,80 marks
+exam,44,BCA Semester 1,Mathematics I,2025-11-07,Room 121,3 hrs,80 marks
+exam,45,BCA Semester 2,Data Structures,2025-11-11,Room 122,3 hrs,80 marks
+exam,46,BCA Semester 2,Database Management,2025-11-13,Lab BCA-1,3 hrs,80 marks
+exam,47,BCA Semester 3,Web Designing (HTML/CSS/JS),2025-11-15,Lab BCA-1,3 hrs,80 marks
+exam,48,BCA Semester 3,Java Programming,2025-11-17,Lab BCA-2,3 hrs,80 marks
+exam,49,BCA Semester 4,Android App Development,2025-11-19,Lab BCA-2,3 hrs,80 marks
+exam,50,BCA Semester 4,Software Engineering,2025-11-21,Room 123,3 hrs,80 marks
+exam,51,BCA Semester 5,Python & Data Analytics,2025-11-23,Lab BCA-3,3 hrs,80 marks
+exam,52,BCA Semester 6,Final Project & Viva,2025-12-08,BCA Project Hall,2 hrs,100 marks
+exam,53,BBA Semester 1,Business Communication,2025-11-05,Room 130,3 hrs,80 marks
+exam,54,BBA Semester 1,Principles of Management,2025-11-07,Room 131,3 hrs,80 marks
+exam,55,BBA Semester 2,Marketing Management,2025-11-11,Room 132,3 hrs,80 marks
+exam,56,BBA Semester 2,Accounting & Finance Basics,2025-11-13,Room 133,3 hrs,80 marks
+exam,57,BBA Semester 3,Human Resource Management,2025-11-15,Room 134,3 hrs,80 marks
+exam,58,BBA Semester 3,Business Statistics,2025-11-17,Room 135,3 hrs,80 marks
+exam,59,BBA Semester 4,Entrepreneurship Development,2025-11-19,Room 136,3 hrs,80 marks
+exam,60,BBA Semester 4,Business Law & Ethics,2025-11-21,Room 137,3 hrs,80 marks
+exam,61,BBA Semester 5,Digital Marketing,2025-11-23,Lab BBA,3 hrs,80 marks
+exam,62,BBA Semester 6,Final Project & Viva,2025-12-09,BBA Project Hall,2 hrs,100 marks
+exam,63,BSC Semester 1,Physics I (Mechanics),2025-11-05,Room 140,3 hrs,80 marks
+exam,64,BSC Semester 1,Mathematics I (Calculus),2025-11-07,Room 141,3 hrs,80 marks
+exam,65,BSC Semester 2,Physics II (Electromagnetism),2025-11-11,Room 142,3 hrs,80 marks
+exam,66,BSC Semester 2,Computer Programming (Python),2025-11-13,Lab BSC,3 hrs,80 marks
+exam,67,BSC Semester 3,Data Analysis & Statistics,2025-11-15,Lab BSC,3 hrs,80 marks
+exam,68,BSC Semester 3,Numerical Methods,2025-11-17,Room 143,3 hrs,80 marks
+exam,69,BSC Semester 4,Operating Systems,2025-11-19,Room 144,3 hrs,80 marks
+exam,70,BSC Semester 4,Database Systems,2025-11-21,Lab BSC,3 hrs,80 marks
+exam,71,BSC Semester 5,Machine Learning Intro,2025-11-23,Lab BSC,3 hrs,80 marks
+exam,72,BSC Semester 6,Final Project & Viva,2025-12-07,BSC Project Hall,2 hrs,100 marks
+exam,73,MBA Semester 1,Management Principles & Theory,2025-11-06,Room 401,3 hrs,80 marks
+exam,74,MBA Semester 1,Organisational Behaviour,2025-11-08,Room 402,3 hrs,80 marks
+exam,75,MBA Semester 2,Financial Management,2025-11-10,Room 401,3 hrs,80 marks
+exam,76,MBA Semester 2,Marketing Research Methods,2025-11-12,Room 403,3 hrs,80 marks
+exam,77,MBA Semester 3,Strategic Management,2025-11-14,Room 402,3 hrs,80 marks
+exam,78,MBA Semester 3,Business Analytics,2025-11-16,Lab MBA,3 hrs,80 marks
+exam,79,MBA Semester 4,MBA Final Project & Viva,2025-12-11,MBA Hall,2 hrs,100 marks
+exam,80,B.Tech ME Semester 1,Engineering Mechanics,2025-11-05,Room 105,3 hrs,80 marks
+exam,81,B.Tech ME Semester 2,Thermodynamics,2025-11-09,Room 106,3 hrs,80 marks
+exam,82,B.Tech ME Semester 3,Fluid Mechanics,2025-11-11,Room 107,3 hrs,80 marks
+exam,83,B.Tech ME Semester 4,Manufacturing Processes,2025-11-13,Room 108,3 hrs,80 marks
+exam,84,B.Tech ME Semester 5,Machine Design,2025-11-15,Room 109,3 hrs,80 marks
+exam,85,B.Tech ME Semester 8,ME Final Project Viva,2025-12-13,ME Workshop Hall,2 hrs,100 marks
+exam,86,B.Tech ECE Semester 3,Digital Electronics,2025-11-14,Lab D,3 hrs,80 marks
+exam,87,B.Tech ECE Semester 4,Microprocessors & Microcontrollers,2025-11-18,Lab E,3 hrs,80 marks
+exam,88,B.Tech ECE Semester 5,VLSI Design,2025-11-20,Lab ECE,3 hrs,80 marks
+exam,89,B.Tech ECE Semester 8,ECE Final Project Viva,2025-12-14,ECE Lab Hall,2 hrs,100 marks
+exam,90,Internal Assessment,All Departments,2025-10-20,Respective Rooms,2 hrs,40 marks
+fee,1,B.Tech CSE,750000,187500,25000,Merit scholarship up to 50% available
+fee,2,B.Tech IT,700000,175000,25000,Merit scholarship available
+fee,3,B.Tech ECE,680000,170000,25000,Scholarship up to 40% available
+fee,4,B.Tech ME,650000,162500,25000,SC/ST fee concession available
+fee,5,B.Tech CE,620000,155000,25000,Government scholarship applicable
+fee,6,B.Tech EE,640000,160000,25000,Merit scholarship available
+fee,7,B.Tech AI,820000,205000,25000,Industry-sponsored scholarship up to 60%
+fee,8,B.Tech DS,800000,200000,25000,Scholarship up to 60% for toppers
+fee,9,B.Tech CY,780000,195000,25000,Scholarship available up to 50%
+fee,10,B.Tech CC,720000,180000,25000,Industry-sponsored scholarships
+fee,11,B.Tech ML,810000,202500,25000,Full scholarship for GATE qualifiers
+fee,12,B.Tech RB,750000,187500,25000,Scholarship for robotics achievers
+fee,13,B.Tech AE,720000,180000,25000,DRDO scholarship available
+fee,14,B.Tech BT,590000,147500,25000,CSIR scholarship applicable
+fee,15,B.Tech CH,610000,152500,25000,Industry scholarship available
+fee,16,BCA,450000,150000,20000,Scholarship for meritorious students
+fee,17,BBA,480000,160000,20000,Management scholarship available
+fee,18,BSC,380000,126667,15000,State scholarship and fee waiver available
+fee,19,MBA,600000,300000,30000,Management quota + merit scholarship
+fee,20,MCA,500000,250000,20000,State government scholarship applicable
+hostel,1,Boys Hostel A – Block 1 (ITM Niwas),300,3500,AC Rooms Available,WiFi/Gym/Indoor Games/Reading Room/CCTV/Mess/Laundry,Veg & Non-Veg | 3 meals/day
+hostel,2,Boys Hostel B – Block 2 (ITM Awas),250,3000,Non-AC Rooms,WiFi/Common Room/TV Room/Mess/Geyser,Veg Only | 3 meals/day
+hostel,3,Boys Hostel C – Block 3 (ITM Sadan),200,4200,Fully AC Premium Rooms,WiFi/Private Bathroom/Study Desk/Fridge/TV/Gym/Mess,Veg & Non-Veg | 4 meals/day
+hostel,4,Girls Hostel A – Block 1 (ITM Mahila Niwas),200,3800,AC Rooms Available,WiFi/Gym/Indoor Games/Mess/Salon/CCTV/Biometric Entry,Veg & Non-Veg | 3 meals/day
+hostel,5,Girls Hostel B – Block 2 (ITM Mahila Awas),180,3200,Non-AC Rooms,WiFi/Common Room/TV Room/Mess/Geyser,Veg Only | 3 meals/day
+hostel,6,Girls Hostel C – Block 3 (ITM Mahila Sadan),150,4500,Fully AC Premium Rooms,WiFi/Private Bathroom/Study Desk/Fridge/TV/Gym/Mess,Veg & Non-Veg | 4 meals/day
+hostel,7,International Student Hostel (ITM Global House),50,5000,Fully AC with 24x7 Security,WiFi/Gym/Laundry/Mess/Common Kitchen/Indoor Games/Reading Hall,Multi-Cuisine | 4 meals/day
+hostel,8,PG Scholar Hostel (ITM Research Abode),80,4800,AC/Non-AC Options,WiFi/Study Carrels/Research Room/Mess/Laundry,Veg & Non-Veg | 3 meals/day
+hostel,9,Faculty Guest House (ITM Atithi Griha),30,6000,Fully AC Suites,WiFi/Room Service/Parking/Conference Room,Full Board Available
+hostel,10,Special Needs Hostel (ITM Sahayata Niwas),40,3500,Fully AC Accessible Rooms,Ramp Access/Elevator/Wheelchair-friendly/Medical Aide/Mess,Veg & Non-Veg | 3 meals/day
+library,1,Main Central Library (ITM Knowledge Hub),60000 books,6:00 AM – 11:00 PM,Digital + Physical Access,12 Reading Rooms,DELNET/INFLIBNET/N-LIST/Shodhganga
+library,2,Digital Library (Online 24x7),1.2 lakh+ e-resources,24x7 Online Access,IEEE/Springer/Elsevier/ACM/Emerald,Virtual Study Rooms + AI Search,Remote Access from Anywhere
+library,3,Department Library (Subject-wise),8000 specialized books each,9:00 AM – 7:00 PM,Subject-specific Resources,Department Reading Nooks,Faculty Curated Resources + Past Papers
+library,4,ITM Archive & Research Repository,5000 theses and dissertations,9:00 AM – 5:00 PM,PhD & PG Access,2 Quiet Study Halls,Institutional Repository Access
+library,5,E-Journal & Magazine Section,500+ e-journals and magazines,8:00 AM – 9:00 PM,All students access,Lounge seating area,Harvard Business Review/Nature/IEEE Spectrum
+attendance,1,Minimum Required Attendance,75%,Below 60% leads to Detention,Medical leaves counted separately,Biometric + Mobile App Tracking,Monthly reports sent to parents
+attendance,2,B.Tech CSE Department,82% average,Above average performance,Real-time online monitoring,Parent SMS alerts enabled,Monthly digital reports
+attendance,3,B.Tech ME Department,78% average,Satisfactory performance,Biometric system installed,Parent SMS alerts enabled,Monthly reports shared
+attendance,4,MBA Department,85% average,Excellent attendance record,Regular monitoring by faculty,Parent portal access available,Weekly performance reports
+attendance,5,B.Tech AI Department,88% average,Outstanding attendance,AI-powered attendance tracking,Automated alerts if below 80%,Daily digital dashboard
+attendance,6,BCA Department,80% average,Good attendance record,Biometric + Face Recognition,WhatsApp alerts to parents,Fortnightly attendance reports
+attendance,7,BBA Department,83% average,Above average attendance,Smartcard + Biometric,Email + SMS alerts,Weekly reports available on portal
+attendance,8,BSC Department,79% average,Satisfactory attendance,Biometric system,Parent SMS alerts,Monthly reports shared via app
+topper,1,B.Tech CSE,Rahul Sharma,9.8,2023,Gold Medal + University Rank 2,TCS Scholarship Rs 1 Lakh
+topper,2,B.Tech IT,Priya Jain,9.6,2023,Silver Medal + Best Project Award,Infosys Scholarship Rs 75K
+topper,3,B.Tech ECE,Aman Verma,9.5,2023,Bronze Medal + Dept Rank 1,Wipro Scholarship Rs 50K
+topper,4,B.Tech ME,Neha Singh,9.4,2023,Department Rank 1 + Best Design,L&T Scholarship Rs 60K
+topper,5,MBA,Rohit Gupta,9.2,2023,Gold Medal + Best Manager,Deloitte Scholarship Rs 80K
+topper,6,B.Tech CSE,Sonal Mehta,9.7,2022,Gold Medal + University Rank 1,Google Pre-Placement Offer
+topper,7,B.Tech DS,Kiran Pillai,9.9,2023,University Rank 1 + Best Thesis,Microsoft Pre-Placement Offer
+topper,8,B.Tech CY,Vikas Nair,9.3,2023,Department Gold + Best Ethical Hacker,IBM Pre-Placement Offer
+topper,9,BCA,Anjali Das,9.5,2023,Department Rank 1 + Best Coder,Full Fee Scholarship
+topper,10,B.Tech BT,Deepa Reddy,9.6,2023,Best Research Project + Gold,CSIR JRF Fellowship
+topper,11,B.Tech AI,Aryan Kapoor,9.9,2023,ITM University Topper + AI Innovation Prize,Amazon Pre-Placement Offer
+topper,12,BBA,Sneha Tiwari,9.3,2023,Best Manager of the Year Award,KPMG Scholarship Rs 70K
+topper,13,BSC,Mohit Soni,9.4,2023,Best Science Project Award,Full BSC Scholarship
+topper,14,B.Tech ML,Ritika Joshi,9.7,2023,ML Research Excellence Award,Nvidia Pre-Placement Offer
+topper,15,MBA,Divya Sharma,9.5,2022,Best Finance Student Award,EY Scholarship Rs 90K
+facility,1,Sports Complex & Grounds,Cricket Ground/Football Field/Basketball Courts/Olympic-size Swimming Pool/Badminton Courts/Table Tennis/Volleyball/Athletics Track,Open 6:00 AM – 8:00 PM,Free for all registered students; coaching available
+facility,2,Cafeteria & Canteens,4 fully equipped canteens with 700+ seating capacity; hygienic FSSAI-certified kitchens; daily menu changes,Breakfast 7-9AM / Lunch 12-2PM / Snacks 4-6PM / Dinner 7-9PM,Veg & Non-Veg; monthly food committee for quality review
+facility,3,Medical Center & Wellness Clinic,24x7 Doctor on Duty / 2 Ambulances / First Aid / Pharmacy / Mental Health Counsellor,Free consultations & first aid for students; counselling sessions by appointment,Tie-up with ITM Hospital & Bombay Hospital Indore for emergencies
+facility,4,Transportation,35 college buses covering 60km radius from campus; GPS-tracked buses; app-based tracking,Routes cover all major areas of Indore/Dewas/Mhow,Rs 2000 – Rs 4500 per month depending on distance
+facility,5,ATM & Bank,3 ATMs on campus (SBI / HDFC / ICICI) + Bank branch + UPI kiosk,Available 24x7; banking staff Mon–Sat 10AM–4PM,Easy cash & banking for all ITM students
+facility,6,Auditorium (ITM Kalyan Mantap),Capacity 2500 / Full AC / 4K LED Projectors / Dolby Sound / Green Room / Stage Lighting,Available for events and seminars,Booking required; departmental priority during exams
+facility,7,Seminar Halls,6 seminar halls with 250 capacity each / Smart Projectors & Video Conferencing / Whiteboards,Available on booking basis,Priority for academic events and guest lectures
+facility,8,Research Labs (State-of-the-Art),AI Lab / Robotics Lab / IoT Lab / Biotech Lab / Nanotechnology Lab / Cloud Lab / Cybersecurity Lab,Latest industry-grade equipment; licensed MATLAB/AutoCAD/Ansys software,Open for PhD & PG students with faculty permission; UG with HOD approval
+facility,9,Innovation Hub & Incubation Center,Startup incubation with 30 dedicated workstations / Mentorship / Seed Funding up to Rs 10 Lakhs,Industry mentors & investor network; tie-up with NASSCOM & IIM Indore,60+ startups supported since 2018; 8 successfully funded
+facility,10,Placement Cell (ITM Career Services),Full-time placement officers / 250+ industry connections / Mock interviews / AMCAT / Resume portal,Open Mon–Fri 9 AM – 5 PM; Saturday for special sessions,Resume building / career counselling / aptitude training / internship support
+facility,11,Yoga & Meditation Centre,Daily yoga sessions / Meditation rooms / Stress management workshops,Mon–Sat 6:00 AM – 7:30 AM,Free for all students and faculty
+facility,12,Student Lounge & Recreation Zone,Gaming zone / TV lounge / Carom & Chess area / Chill-out spaces across campus,Open 8 AM – 10 PM,Common area free for all students
+admission,1,JEE Main,All B.Tech Engineering UG courses,Rank-based cutoff varies by course; direct counselling for top ranks,10th + 12th marksheets / JEE scorecard / Category certificate if applicable / ID proof
+admission,2,State CET (MP PET),Engineering + Management UG courses,Merit-based state rank; Madhya Pradesh domicile preferred,Domicile certificate + 12th marksheet required + CET scorecard
+admission,3,Management Quota,All UG + PG courses,Direct admission with slightly higher fee; limited seats per course,12th marksheet + ID proof + fee payment receipt
+admission,4,NRI Quota,All UG + PG courses,Dollar-based fee structure; separate interview process,Valid passport + proof of NRI status + education certificates
+admission,5,Lateral Entry (3rd Semester),B.Tech courses only – direct to 3rd semester,3-year diploma holders from AICTE-approved institutes only,Diploma certificate + all semester marksheets + ID proof
+admission,6,CLAT/CMAT Based,MBA/BBA/BSC/BCA programs,Score-based shortlisting + personal interview round,Valid CLAT/CMAT scorecard + 12th/graduation marksheet
+admission,7,ITM Direct Admission Test (IDAT),All UG programs for non-JEE applicants,Online entrance test + counselling process,12th marksheet + IDAT admit card + ID proof
+admission,8,Spot Admission (Vacant Seats),All courses during final admission rounds,Merit-based from remaining seats; first-come-first-served,All original documents required for spot verification
+scholarship,1,ITM Merit Scholarship,Top 10% students each semester at ITM University,25% – 50% fee waiver on tuition; renewed each semester,CGPA 8.5 and above required; no backlog papers
+scholarship,2,SC/ST/OBC Government Scholarship,Government-sponsored students under MP state policy,Full fee waiver (varies by category and income level),Caste certificate + income certificate + domicile required
+scholarship,3,Sports Achievement Scholarship,State / National / International level sports players,25% – 50% fee waiver on tuition based on achievement level,Valid sports achievement certificate + selection letter needed
+scholarship,4,Single Girl Child Scheme,MP state government scheme for only girl child students,Full tuition fee waiver for duration of program,State domicile + girl child declaration + Aadhar required
+scholarship,5,Industry-Sponsored Scholarship,TCS iON / Infosys Springboard / Wipro WILP / Google Scholarship,Rs 50000 – Rs 100000 per year academic assistance,1-2 year service bond with sponsor company; CGPA 7.5+ required
+scholarship,6,ITM Alumni Scholarship,Funded by ITM University alumni network and donations,Rs 25000 – Rs 50000 per year support,Financial need basis + CGPA 7.0 minimum + recommendation letter
+scholarship,7,Divyaang (Disability) Scholarship,Students with physical/visual/hearing disability,Full fee waiver + special accommodation assistance,Disability certificate from government hospital required
+scholarship,8,Minority Scholarship,Students from minority communities under central scheme,As per central/state government norms; income-based,Minority community certificate + income certificate required
+scholarship,9,Research Excellence Scholarship,PhD and PG students with exceptional research output,Full fee waiver + monthly stipend Rs 12000 – Rs 18000,Published paper in Scopus/SCI journal required
+scholarship,10,Rural Student Scholarship,Students from rural/tribal areas of MP,25% – 50% fee waiver to encourage rural talent,Rural domicile certificate + family income proof required
+event,1,TechFest – TECHNOVA 2025 (ITM),ITM Annual Inter-college Technical Festival,March 2025,Robotics/Coding/Hardware/AI Hackathon/IoT Expo,Prize pool Rs 8 Lakhs; 50+ colleges participated in 2024
+event,2,CulturalFest – UTSAV 2025 (ITM),ITM Annual Cultural Festival,February 2025,Dance/Music/Drama/Art/Fashion Show/Standup Comedy,Open to all students; professional artists perform; 10000+ footfall
+event,3,48-Hour Hackathon (ITM HackStorm),Coding & innovation challenge with industry mentors,January 2025,Industry-sponsored real-world problem statements,Prize Rs 1.5 Lakh for winner; Rs 75K second; Rs 50K third
+event,4,Annual ITM Sports Meet,Inter-department & inter-college sports tournament,December 2024,25+ sports categories including outdoor and indoor,Medals/trophies/cash prizes; sponsored by local companies
+event,5,Industry Connect – Monthly Series,Monthly industry-academia interaction sessions,Every last Friday of the month,Guest lectures from CXOs / Q&A / Live demos,Alumni mentorship + internship referrals
+event,6,ITM Research Symposium,Research paper presentation and poster event,October 2024,PhD/PG/UG students all eligible to present,Best paper certificate + Rs 25000 prize; sponsored by DST
+event,7,ITM Entrepreneurship Summit,Startup pitching & VC networking event,November 2024,VCs & angel investors from Mumbai/Bangalore/Delhi present,Seed funding opportunity up to Rs 25 Lakhs for best startup
+event,8,ITM Alumni Connect 2024,Annual alumni gathering & networking event,December 2024,Career networking / mentorship / job referrals / reunions,Scholarship announcements + Alumni of the Year Award
+event,9,National Science Day Celebration,Science competitions and exhibitions on Feb 28,February 2025,Model making / Quiz / Science fair for all students,Best project award + Rs 10000 prize for top 3
+event,10,ITM Freshers Welcome – AAGMAN 2025,Grand freshers welcome party for 2025 batch,August 2025,Cultural performances / Talent hunt / Freshers Crown Award,Mr. & Ms. Fresher titles; free for all new students
+club,1,ITM Coding Club,Weekly coding contests / DSA workshops / competitive programming / LeetCode sessions,Hosted 15 inter-college events in 2023; 200+ active members,Placement-focused training; mentorship by alumni in top MNCs
+club,2,ITM Robotics Club,Design & build robots / inter-college competitions / Robocon participation,Won State Robotics Championship 2023 & 2024,Industry-expert mentors from Bosch & ABB; ISRO-sponsored project
+club,3,ITM AI/ML Club,Research projects / Kaggle competitions / paper reading / NVIDIA seminars,IEEE Student Chapter affiliation; published 10 student papers in 2023,NVIDIA Deep Learning Institute partner; free GPU access for members
+club,4,ITM Entrepreneurship Cell (E-Cell),Startup mentorship / business plan competitions / pitch to real VCs,Incubated 20 startups since inception; 5 currently funded,Connections with 40+ VCs and angel investors; NASSCOM empanelled
+club,5,ITM Literary & Debate Club,Debates / MUN / quiz / creative writing / ITM magazine editorial,Hosts annual MUN conference; 300+ students in 2024 event,Published 3 student magazines in 2023; district debate champions
+club,6,ITM Photography & Media Club,Photography workshops / event coverage / short films / social media,Annual photography exhibition + 'Lens of ITM' award,Best Media Club award 2023; college YouTube channel managed here
+club,7,NSS (National Service Scheme) – ITM Unit,Blood donation / tree plantation / cleanliness drives / Swachh Bharat,Adopted 3 villages in Indore district for development,Leadership & social responsibility; active 500+ volunteers
+club,8,ITM Sports Club,Organized sports / inter-college tournaments / professional fitness programs,Won 8 inter-college trophies in 2023; 3 national-level players produced,Sponsorship for state & national players; coach available daily
+club,9,ITM Music & Dance Club,Classical/western music / hip-hop / classical dance / fusion performances,Performed at 10+ state-level cultural fests in 2023,Professional music room + dance studio; regular celebrity workshops
+club,10,ITM Green Campus Club (Eco Club),Sustainability drives / solar awareness / rainwater harvesting / waste management,Zero-waste campus drive launched 2024; planted 5000 trees,MoEFCC recognised; tie-up with WWF India
+rule,1,Attendance Policy,Minimum 75% attendance mandatory for each subject at ITM University,Detention below 60%; barred from examinations,Medical leave excluded with registered doctor's certificate
+rule,2,Dress Code,Formal dress on Monday-Wednesday; smart casual Thursday-Friday at ITM,ID card must be worn visibly at all times in campus,Violation results in entry denial at gate; repeated offences noted in record
+rule,3,Mobile Phone Policy,Strictly not allowed in classrooms or labs during academic sessions,Allowed in hostel and common areas only; silent mode in library,Device confiscated on first violation; Rs 500 fine; Rs 1000 for repeat
+rule,4,Library Rules,Maximum 4 books issued at a time per ITM student,14-day borrowing period per book; renewable once online,Rs 5 per day late return fine; Rs 500 for damaged/lost book
+rule,5,Hostel Timings,Return to hostel by 10:30 PM on weekdays; 11:30 PM weekends,Gate pass required for overnight stay outside; warden approval needed,Unexcused late entry reported to parents; repeated offences escalated
+rule,6,Anti-Ragging Policy,Strict zero-tolerance anti-ragging policy in effect at ITM University,Immediate suspension/expulsion on verified complaint; FIR filed,Helpline 1800-180-5522 (24x7 free call); committee reviews within 24 hrs
+rule,7,Examination Rules,No malpractice of any kind permitted in examination halls,ID card mandatory; mobiles prohibited; seating as per admit card only,Malpractice leads to cancellation of entire semester result
+rule,8,Vehicle & Parking Policy,Vehicles allowed only with campus registration sticker issued by admin,Speed limit 20 km/h strictly enforced; no bikes in academic zones,Two-wheelers permitted only for 3rd year and above; violation = fine Rs 500
+rule,9,Social Media & Online Conduct,No defamatory content about ITM or its faculty/students online,Cyberbullying results in disciplinary action + possible legal action,Positive posts about ITM encouraged; official handles to be followed
+rule,10,Campus Safety Rules,No fireworks / open flames / unauthorized electrical equipment in rooms,Fire exits must remain clear; fire drill participation mandatory,Smoking / alcohol strictly prohibited; possession results in expulsion
+infrastructure,1,Campus Area & Environment,75-acre green campus with landscaped gardens at Gwalior Road Indore,Green campus certified by MoEFCC; awarded Smart Campus 2023,45% solar-powered energy; EV charging stations; rainwater harvesting
+infrastructure,2,Classrooms & Smart Learning,180 smart classrooms with full digital infrastructure,4K LED projectors / interactive smart boards / AC / IoT attendance,All rooms Wi-Fi enabled; student portal integration with attendance
+infrastructure,3,Laboratories & Research Centres,65 state-of-the-art laboratories across departments,Latest industry-grade equipment & licensed MATLAB/AutoCAD/SolidWorks/AWS,AI Lab / ML Lab / IoT Lab / Chemical / Biotech / Civil / Robotics / Cyber Labs
+infrastructure,4,Internet & Wi-Fi Connectivity,1.5 Gbps fiber optic internet backbone across ITM campus,Campus-wide Wi-Fi in all buildings, hostels & outdoor spaces,24x7 uninterrupted connectivity; separate VLAN for research
+infrastructure,5,Power Supply & Sustainability,100% power backup through UPS + DG sets; zero outage campus,600 KW rooftop solar panel installation; smart energy meters,Solar energy saves Rs 50 Lakhs annually; annual energy audit done
+infrastructure,6,Security & Surveillance,600+ HD CCTV cameras across entire ITM campus,24x7 monitoring by trained security + quick response team,Biometric access at key entry points; visitor management system
+accreditation,1,NAAC,Grade A+ Accreditation – ITM University Gwalior,Score 3.65 out of 4.0,Valid till 2026; re-accreditation process initiated
+accreditation,2,NBA,Accredited for 8 UG programs including B.Tech CSE/AI/ECE,Valid till 2026; UGC and AICTE recognized,All accredited programs run under AICTE-approved syllabus
+accreditation,3,NIRF Ranking,Top 100 Engineering Colleges of India,All-India Rank 67 in 2024 (improved from 79 in 2021),State Rank 3 in Madhya Pradesh; improving yearly
+accreditation,4,ISO Certification,ISO 9001:2015 Quality Management System at ITM University,Implemented across all departments and administration,Annual third-party audit maintained; awarded 2023 compliance certificate
+accreditation,5,AICTE Approval,All technical programs AICTE approved and renewed annually,Annual compliance maintained,Government of India recognized; under MP Private University Act
+accreditation,6,UGC Recognition,University Grants Commission recognized university,All degree programs UGC approved,PhD programs and research centres UGC validated
+research,1,Research Centres,6 active interdisciplinary research centres at ITM University,AI & ML / Robotics / Biotech / Renewable Energy / Environment / Cyber Systems,Active industry and government collaboration; DST funded
+research,2,Patents & IP,55 patents filed in last 3 years; 20 granted; 5 commercialized,Technologies licensed to 5 companies in Indore & Pune,Rs 3 Crore received from IP commercialization since 2020
+research,3,Publications,400+ research papers published since 2020 by ITM faculty & students,Scopus/SCI/WoS indexed journals; h-index improving yearly,Faculty and student co-authored papers encouraged
+research,4,Research Funding,Projects funded by DST / CSIR / DBT / DRDO / SERB,Total active research funding: Rs 12 Crore,18 ongoing government-funded projects; 4 industry-funded projects
+research,5,International Collaboration,MoU signed with 15 foreign universities including UK/USA/Germany,Student and faculty exchange programs active,Joint research projects and dual-degree options available
+contact,1,Main Administrative Office – ITM University,+91-731-2973-100,info@itmuniversity.ac.in,Mon–Sat 9:00 AM – 5:00 PM
+contact,2,Admissions Office – ITM University,+91-731-2973-200,admissions@itmuniversity.ac.in,Mon–Sat 9:00 AM – 6:00 PM
+contact,3,Placement Cell – ITM Career Services,+91-731-2973-300,placements@itmuniversity.ac.in,Mon–Fri 9:00 AM – 5:00 PM
+contact,4,Hostel Office – ITM University,+91-731-2973-400,hostel@itmuniversity.ac.in,Mon–Sat 9:00 AM – 5:00 PM
+contact,5,Library – ITM Knowledge Hub,+91-731-2973-500,library@itmuniversity.ac.in,Mon–Sat 6:00 AM – 11:00 PM
+contact,6,Medical Center – ITM Wellness Clinic,+91-731-2973-911,medical@itmuniversity.ac.in,24x7 Emergency Available
+contact,7,Anti-Ragging Helpline,1800-180-5522 (Free Toll),antiragging@itmuniversity.ac.in,24x7 Confidential Helpline
+contact,8,Vice Chancellor Office – ITM University,+91-731-2973-001,vc@itmuniversity.ac.in,Mon–Fri 10:00 AM – 4:00 PM (Appointment needed)
+contact,9,Exam Controller Office – ITM,+91-731-2973-600,exams@itmuniversity.ac.in,Mon–Sat 10:00 AM – 4:00 PM
+contact,10,Scholarship & Finance Office,+91-731-2973-700,scholarship@itmuniversity.ac.in,Mon–Fri 9:30 AM – 4:30 PM
